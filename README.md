@@ -380,6 +380,7 @@ to match. Every entry is compared with `strcasecmp`, so `.PNG` and
 The full model is documented in `SECURITY.md`, but the short version:
 
 - **`..` is rejected outright.**
+- 
 Deepseek: Not normalized, not resolved — rejected.
 Any URI containing `..` or `%2e%2e` gets the same `403` response,
 whether the resulting path would exist or not.
