@@ -5,7 +5,7 @@ portable, and honest about what it does.**
 
 <h3>
 *Document author: DeepSeek*
-  
+
 *Page editor: Hazardous*
 
 *Program development team:*
