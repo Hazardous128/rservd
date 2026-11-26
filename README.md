@@ -7,7 +7,7 @@ portable, and honest about what it does.**
 
 *Document author: DeepSeek*
 
-*Page editor: Hazardous*
+*Document editor: Hazardous*
 
 *Program development team:*
 
